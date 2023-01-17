@@ -1,4 +1,3 @@
-# Python-Projects
 Doctors Appointment Project
 This is a simple patient-doctor scheduler program,
 It allows the user to schedule an appointment by
